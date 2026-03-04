@@ -1,3 +1,0 @@
-[Server1]
-ServerName=bb
-ServerData=Qh19DQyk4eqBqqUHSRxwX0r1pe6YrKUaWhl7QULsqvezqY8feh0IFCO52bD+6NlfL0YIGjWpw6zs9cpYJkIeAF8=
